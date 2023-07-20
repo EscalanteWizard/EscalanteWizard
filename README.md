@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/escalantewizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="escalantewizard" height="30" width="40" /></a>
 <a href="https://fb.com/jordano escalante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jordano escalante" height="30" width="40" /></a>
 <a href="https://instagram.com/jor_escalante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jor_escalante" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jordanoescalante1336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jordanoescalante1336" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@jordanoescalante1336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jordanoescalante1336" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
