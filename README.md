@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is EscalanteWizard and I'm a BackEnd, security engineer and Cloud SoftWafre Dev from Costa Rica</h2>
+<h2 align="left">Hi 👋! My name is EscalanteWizard, and I'm a BackEnd developer from Costa Rica. I also have a strong interest in data analysis, system security, and cloud solutions.</h2>
 
 ###
 
